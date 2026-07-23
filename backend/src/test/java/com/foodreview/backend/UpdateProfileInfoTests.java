@@ -4,8 +4,6 @@ import com.foodreview.backend.service.ProfileService;
 import com.foodreview.backend.dto.EditProfileRequest;
 import com.foodreview.backend.dto.EditProfileResponse;
 
-
-
 import org.junit.jupiter.api.Test;
 
 public class UpdateProfileInfoTests {
